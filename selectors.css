@@ -1,0 +1,68 @@
+header {
+    border: 1px;
+    color:floralwhite;
+}
+
+.navBar ul {
+    width: 100%;
+    list-style: none;
+    float: left;
+}
+
+.navBar li {
+    padding: 15px;
+    float: left;
+    background-color: black;
+}
+
+section{
+
+}
+
+span.disabled {
+    color: grey;
+
+}
+
+span.active{
+    color: yellow
+}
+.imred{
+    color: red;
+}
+.imblue{
+    color: blue;
+}
+
+.h4 {
+    background-color: red;
+}
+
+.h5 {
+    background-color: blue;
+
+}
+
+div.h4{
+    border: 1px;
+    border-radius: 70px 70px 70px 70px;
+
+}
+
+div.h5{
+    border: 1px;
+    border-radius: 70px 70px 70px 70px;
+
+} 
+
+.promo{
+    text-decoration: bold;
+    color: gold;
+}
+span :input{
+    height: 25px;
+}
+
+.footer input {
+    height: 25px;
+}
